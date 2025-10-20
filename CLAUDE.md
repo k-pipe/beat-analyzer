@@ -1,0 +1,1 @@
+- the loop command does not work. it should work exactly like play once, onle when all pieces are played it starts over from the beginning
